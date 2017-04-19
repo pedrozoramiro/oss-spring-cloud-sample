@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:8001}
+
+message: "[ ! EMPLOYEE MESSAGE ! ]"
